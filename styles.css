@@ -1,0 +1,38 @@
+body {
+    background-image: url("faded-office.png");
+    background-size: cover;
+}
+
+.main{
+    padding: 50px 0 0 45px;
+    width: 550px;
+}
+
+.title{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 80px;
+    font-weight: 700;
+}
+
+p, .chatBtn {
+    font-family: 'Open Sans', sans-serif;
+}
+
+p{
+    font-size: 40px;
+}
+
+.underline {
+    border-bottom: 6px solid #0ea5e9;
+}
+
+.chatBtn {
+    width: 200px;
+    font-size: 25px;
+    font-weight: 700;
+    padding: 10px 20px;
+    border: none;
+    color: white;
+    background-color: #0ea5e9;
+    padding: 20px 20px;
+}
